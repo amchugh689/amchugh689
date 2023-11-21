@@ -1,7 +1,4 @@
-✨ welcome to my house and to my home and to my kitchen ✨
-
 - software engineering apprentice
-- 📍 NI
 - they/them
 
 
